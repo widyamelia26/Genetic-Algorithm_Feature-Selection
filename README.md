@@ -4,7 +4,7 @@
 Pemodelan yang akurat untuk memprediksi risiko diabetes sangat penting dalam upaya pencegahan dan penanganannya. Namun, tingginya jumlah fitur atau variabel yang terlibat seringkali menyebabkan model menjadi kurang efisien dan rentan terhadap overfitting, sehingga seleksi fitur menjadi langkah krusial dalam proses pemodelan. Meskipun Support Vector Machine (SVM) telah terbukti efektif dalam klasifikasi penyakit, pemilihan fitur yang optimal masih menjadi tantangan.
 
 ## Dataset
-Data diabetes dari Rumah Sakit di Sylhet, Bangladesh yang terdiri dari 16 fitur dan 1 keluaran. Seluruh fitur kecuali Age mempunyai output biner (1 atau 0).
+[Data](diabetes_risk_data.csv) diabetes dari Rumah Sakit di Sylhet, Bangladesh yang terdiri dari 16 fitur dan 1 keluaran. Seluruh fitur kecuali Age mempunyai output biner (1 atau 0).
 
 
 ## Metodologi 
